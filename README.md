@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-**dlwnghks6821/dlwnghks6821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.\
-Java , Javascript 에 관심이 많은사람입니다 매일매일 공부하며 코딩하고있습니다
+**dlwnghks6821/dlwnghks6821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+원래는 자바 JSP , SPring framework 로 웹개발을 했었는데 이제는 C# 개발자가 되었어요 닷넷프레임워크..!
 
 Here are some ideas to get you started:
 
