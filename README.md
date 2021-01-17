@@ -6,7 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭My Skills: JAVA ,JSP , Spring(STS3) , Mybatis , Oracle11g Sql , JavaScript , JQuery , Html ,Css , Tomcat(Was) JDBC Template API, 
+- 🔭My Skills: JAVA ,JSP , Spring(STS3) , Mybatis , Oracle11g Sql , JavaScript , JQuery , Html ,Css , Tomcat(Was) JDBC Template API, MVC Pattern framework,
+C#,ASP.NET, Python Beautiful Soup , Crawlling,
 - 🌱 I’m currently learning ... 최근에는 Spring frame work 를 배우고있습니다. 그리고 요즘 React .js 라는 javascript 라이브러리에 너무 관심이 많아져서 따로 더 공부하고 있는중입니다.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
