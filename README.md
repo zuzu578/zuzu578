@@ -15,3 +15,30 @@ https://github.com/zuzu578/riotapi_react
 
 # 성향
 학습한 언어나 프레임워크를 통해 해당 언어나 프레임워크로 간단한 프로그램이나 응용하여 토이프로젝트를 만드는것을 좋아하는 개발자입니다!🤩 -->
+
+# 최근 끄적여 본것들..🤠
+https://github.com/zuzu578/spring_boot_001-2-2
+
+최근에 태고의달인 커뮤니티 , 수록곡 제공 사이트를 토이프로젝트로 개발 , 데이터를 필요로하는 유저들에게 excel 문서화하여 제공하는 프로그램
+
+https://github.com/zuzu578/myapp
+node js 와 mysql 을 이용한 간단한 crud 프로그램
+
+https://github.com/zuzu578/riotapi_react
+리액트를 이용한  간단한 롤 전적검색 프로그램입니다. 
+
+https://github.com/zuzu578/java-discordbot
+
+자바로 만드는 디스코드봇 (리그오브레전드)
+
+https://github.com/zuzu578/java-discordbot/tree/taiko_discord_bot
+
+태고의달인 디스코드봇 
+
+https://github.com/zuzu578/mytutorial
+
+리액트로 끄적여본 롤전적검색 기능추가 + 다시만들기 
+
+https://github.com/zuzu578/jpasample
+
+심심해서 만들어본 jpa 보일러플레이트
