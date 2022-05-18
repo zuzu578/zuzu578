@@ -42,3 +42,9 @@ https://github.com/zuzu578/mytutorial
 https://github.com/zuzu578/jpasample
 
 심심해서 만들어본 jpa 보일러플레이트
+
+https://github.com/zuzu578/taiko_front-end
+
+심심해서 만들어본 타입스크립트와 리액트를 이용한 태고의달인 간단 커뮤니티 프론트엔드 
+
+
