@@ -39,9 +39,9 @@ https://github.com/zuzu578/jpasample : 심심해서 만들어본 jpa 보일러�
 
 
 
-https://github.com/zuzu578/taiko_front-end: 심심해서 만들어본 타입스크립트와 리액트를 이용한 태고의달인 간단 커뮤니티 프론트엔드 
+https://github.com/zuzu578/taiko_front-end: 심심해서 만들어본 타입스크립트와 리액트를 이용한 태고의달인 간단 게시판  프론트엔드 
 
 
 
-https://github.com/zuzu578/taiko : 심심해서 만들어본 스프링부트와 하이버네이트 orm , 마이바티스를 이용한 태고의달인 커뮤니티 백엔드 
+https://github.com/zuzu578/taiko : 심심해서 만들어본 스프링부트와 하이버네이트 orm , 마이바티스를 이용한 태고의달인 게시판 백엔드 
 
