@@ -48,3 +48,5 @@ https://github.com/zuzu578/taiko : 심심해서 만들어본 스프링부트와 
 
 https://github.com/zuzu578/Sequelize-CRUD : node js sequelize 이용한 orm  crud 
 
+https://github.com/zuzu578/mybootapp.zip_expanded : spring boot 보일러플레이트
+
