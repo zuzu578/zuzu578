@@ -45,3 +45,6 @@ https://github.com/zuzu578/taiko_front-end: 심심해서 만들어본 타입스�
 
 https://github.com/zuzu578/taiko : 심심해서 만들어본 스프링부트와 하이버네이트 orm , 마이바티스를 이용한 태고의달인 게시판 백엔드 
 
+
+https://github.com/zuzu578/Sequelize-CRUD : node js sequelize 이용한 orm  crud 
+
