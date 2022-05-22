@@ -33,9 +33,7 @@ https://github.com/zuzu578/java-discordbot/tree/taiko_discord_bot : 태고의달
 
 https://github.com/zuzu578/mytutorial : 리액트로 끄적여본 롤전적검색 기능추가 + 다시만들기 
 
-
-
-https://github.com/zuzu578/jpasample : 심심해서 만들어본 jpa 보일러플레이트
+https://github.com/zuzu578/JPA-boilerPlate: 심심해서 만들어본 jpa 보일러플레이트
 
 
 
