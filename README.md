@@ -16,7 +16,7 @@ https://github.com/zuzu578/riotapi_react
 # 성향
 학습한 언어나 프레임워크를 통해 해당 언어나 프레임워크로 간단한 프로그램이나 응용하여 토이프로젝트를 만드는것을 좋아하는 개발자입니다!🤩 -->
 
-# 심심할때 해본것들 ..🤠
+# 심심할때 해본 토이프로젝트 
 https://github.com/zuzu578/spring_boot_001-2-2 : 태고의달인 커뮤니티 , 수록곡 제공 사이트를 토이프로젝트로 개발 , 데이터를 필요로하는 유저들에게 excel 문서화하여 제공하는 프로그램
 
 https://github.com/zuzu578/myapp : node js 와 mysql 을 이용한 간단한 crud 프로그램
@@ -49,4 +49,6 @@ https://github.com/zuzu578/Sequelize-CRUD : node js sequelize 이용한 orm  cru
 https://github.com/zuzu578/mybootapp.zip_expanded : spring boot 보일러플레이트
 
 https://github.com/zuzu578/taiko_wiki : 태고의달인 위키 
+
+https://github.com/zuzu578/session_with_me : 태고의달인 세션 같이하자! 
 
