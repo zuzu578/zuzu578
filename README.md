@@ -50,5 +50,7 @@ https://github.com/zuzu578/mybootapp.zip_expanded : spring boot 보일러플레�
 
 https://github.com/zuzu578/taiko_wiki : 태고의달인 위키 
 
-https://github.com/zuzu578/session_with_me : 태고의달인 세션 같이하자! 
+https://github.com/zuzu578/session_with_me : 태고의달인 세션 같이하자!  프론트엔드 
+
+https://github.com/zuzu578/playwithme : jpa ,queryDsl 을 사용한 태고의달인 세션 같이하자 백엔드 
 
